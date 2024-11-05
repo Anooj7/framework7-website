@@ -41,7 +41,7 @@
   "homepage": "http://framework7.io/",
   "dependencies": {
     "dom7": "^2.1.2",
-    "path-to-regexp": "^2.4.0",
+    "path-to-regexp": "^8.0.0",
     "ssr-window": "^1.0.1",
     "template7": "^1.4.0"
   }
